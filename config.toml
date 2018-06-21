@@ -18,7 +18,7 @@ theme = "hugo-minimalist-theme"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    header_background = "img/emerge-starman.jpg"
     header_title = "Webex for Developers"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
